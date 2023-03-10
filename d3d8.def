@@ -1,0 +1,6 @@
+LIBRARY 
+EXPORTS
+  DebugSetMute=DebugSetMute_wrapper @1
+  Direct3DCreate8=Direct3DCreate8_wrapper @2
+  ValidatePixelShader=ValidatePixelShader_wrapper @4
+  ValidateVertexShader=ValidateVertexShader_wrapper @3
